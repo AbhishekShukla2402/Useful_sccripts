@@ -1,0 +1,1 @@
+A useful function that cycles through features in a dataset, performs PCA on them and returns the optimal number of features that could fetch the best accuracy score via Logistic Regression. Could be rewritten to work with other machine learning methods as well. 
